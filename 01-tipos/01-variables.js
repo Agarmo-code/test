@@ -1,6 +1,4 @@
 let nombre = "Adrian"
-//loca gregoria
-//loooca
-//loca dolores
+//ya no hay señoras
 let variable = "ss"
 console.log(nombre)
